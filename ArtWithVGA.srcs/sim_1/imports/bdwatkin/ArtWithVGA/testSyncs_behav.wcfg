@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testSyncs_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testSyncs" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000000 ms"></ZoomStartTime>
+      <ZoomEndTime time="26.850000001 ms"></ZoomEndTime>
+      <Cursor1Time time="2.810227000 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject type="array" fp_name="/testSyncs/sw">
+      <obj_property name="ElementShortName">sw[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/testSyncs/clkin">
+      <obj_property name="ElementShortName">clkin</obj_property>
+      <obj_property name="ObjectShortName">clkin</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/vgaBlue">
+      <obj_property name="ElementShortName">vgaBlue[3:0]</obj_property>
+      <obj_property name="ObjectShortName">vgaBlue[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/vgaGreen">
+      <obj_property name="ElementShortName">vgaGreen[3:0]</obj_property>
+      <obj_property name="ObjectShortName">vgaGreen[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/vgaRed">
+      <obj_property name="ElementShortName">vgaRed[3:0]</obj_property>
+      <obj_property name="ObjectShortName">vgaRed[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/index">
+      <obj_property name="ElementShortName">index[31:0]</obj_property>
+      <obj_property name="ObjectShortName">index[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/file">
+      <obj_property name="ElementShortName">file[31:0]</obj_property>
+      <obj_property name="ObjectShortName">file[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/file_str">
+      <obj_property name="ElementShortName">file_str[200:0]</obj_property>
+      <obj_property name="ObjectShortName">file_str[200:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/GUT/SERRORS">
+      <obj_property name="ElementShortName">SERRORS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SERRORS[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/testSyncs/RUT/RGBERRORS">
+      <obj_property name="ElementShortName">RGBERRORS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RGBERRORS[31:0]</obj_property>
+   </wvobject>
+</wave_config>
