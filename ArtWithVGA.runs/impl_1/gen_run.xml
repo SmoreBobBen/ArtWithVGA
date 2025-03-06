@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1741298829">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-DCP" Name="ArtTop_routed.dcp"/>
+  <File Type="ROUTE-STATUS" Name="ArtTop_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="ArtTop_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="ArtTop_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="ArtTop_power_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="ArtTop_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="ArtTop_drc_routed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ArtTop_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="ArtTop_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ArtTop_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="ArtTop_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="ArtTop_io_placed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="ArtTop_route_status.pb"/>
+  <File Type="BG-BIT" Name="ArtTop.bit"/>
+  <File Type="PDI-FILE" Name="ArtTop.pdi"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ArtTop_routed_bb.dcp"/>
+  <File Type="BG-BGN" Name="ArtTop.bgn"/>
+  <File Type="RCFI_FILE" Name="ArtTop.rcfi"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ArtTop_routed_error.dcp"/>
+  <File Type="BG-DRC" Name="ArtTop.drc"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ArtTop_timing_summary_routed.rpt"/>
+  <File Type="BG-BIN" Name="ArtTop.bin"/>
+  <File Type="CFI_FILE" Name="ArtTop.cfi"/>
+  <File Type="OPT-DRC" Name="ArtTop_drc_opted.rpt"/>
+  <File Type="RDI-RDI" Name="ArtTop.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ArtTop_timing_summary_postroute_physopted.pb"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="ArtTop_postroute_physopted.rqs"/>
+  <File Type="ROUTE-TIMING-PB" Name="ArtTop_timing_summary_routed.pb"/>
+  <File Type="PA-TCL" Name="ArtTop.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="ArtTop_bus_skew_routed.pb"/>
+  <File Type="BITSTR-MSK" Name="ArtTop.msk"/>
+  <File Type="RNPI_FILE" Name="ArtTop.rnpi"/>
+  <File Type="OPT-HWDEF" Name="ArtTop.hwdef"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ArtTop_timing_summary_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="ArtTop_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="ArtTop_bus_skew_routed.rpx"/>
+  <File Type="BITSTR-RBT" Name="ArtTop.rbt"/>
+  <File Type="NPI_FILE" Name="ArtTop.npi"/>
+  <File Type="BITSTR-NKY" Name="ArtTop.nky"/>
+  <File Type="RBD_FILE" Name="ArtTop.rbd"/>
+  <File Type="BITSTR-BMM" Name="ArtTop_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="ArtTop.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="ArtTop.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ArtTop.ltx"/>
+  <File Type="ROUTE-SIMILARITY" Name="ArtTop_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="ArtTop_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="ArtTop_bus_skew_routed.rpt"/>
+  <File Type="OPT-DCP" Name="ArtTop_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="ArtTop_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="ArtTop_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ArtTop_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="ArtTop_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ArtTop_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ArtTop_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ArtTop_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ArtTop_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="ArtTop_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ArtTop_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="ArtTop_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ArtTop_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ArtTop_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="ArtTop_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ArtTop_methodology_drc_routed.rpx"/>
+  <File Type="BOOT-PDI-FILE" Name="ArtTop_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="ArtTop_pld.pdi"/>
+  <File Type="ROUTE-RQS" Name="ArtTop_routed.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/16bitcounter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/16bitcounter.v"/>
+        <Attr Name="ImportTime" Val="1740178172"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/8bitcounter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/8bitcounter.v"/>
+        <Attr Name="ImportTime" Val="1740099028"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/FramesToSec.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/FramesToSec.v"/>
+        <Attr Name="ImportTime" Val="1741131495"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Hex7Seg.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/Hex7Seg.v"/>
+        <Attr Name="ImportTime" Val="1741045779"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/PixelPosition.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/PixelPosition.v"/>
+        <Attr Name="ImportTime" Val="1740536139"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/PixelProcesssor.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/PixelProcesssor.v"/>
+        <Attr Name="ImportTime" Val="1741221004"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/RingCounter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/RingCounter.v"/>
+        <Attr Name="ImportTime" Val="1741045814"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Selector.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/Selector.v"/>
+        <Attr Name="ImportTime" Val="1741045815"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/labVGA_clks.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/labVGA_clks.v"/>
+        <Attr Name="ImportTime" Val="1740096673"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ArtTop.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../ArtWithVGA/ArtWithVGA.srcs/sources_1/new/ArtTop.v"/>
+        <Attr Name="ImportTime" Val="1741220339"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Molecule.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/Molecule.v"/>
+        <Attr Name="ImportTime" Val="1740790944"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Lab6Top.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/sources_1/new/Lab6Top.v"/>
+        <Attr Name="ImportTime" Val="1741137174"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ArtWithVGA/archive_project_summary.txt">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/ArtWithVGA/archive_project_summary.txt"/>
+        <Attr Name="ImportTime" Val="1741221271"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ArtTop"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Downloads/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Desktop/Lab_6/Lab_6.srcs/constrs_1/imports/Downloads/Basys3_Master.xdc"/>
+        <Attr Name="ImportTime" Val="1740535671"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/ArtTop.dcp">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../ArtWithVGA/ArtWithVGA.srcs/utils_1/imports/synth_1/ArtTop.dcp"/>
+        <Attr Name="ImportTime" Val="1741221024"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
